@@ -10,7 +10,7 @@ metadata:
 apiVersion: v1
 kind: Service
 metadata:
-  name: reviews-test
+  name: reviews
   labels:
     app: reviews
     service: reviews
