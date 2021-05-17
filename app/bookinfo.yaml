@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: ServiceAccount
 metadata:
-  name: bookinfo-reviews
+  name: bookinfo-reviews-test
 ---
 ##################################################################################################
 # Reviews service
